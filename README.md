@@ -1,5 +1,5 @@
--  https://karttavya.github.io/Youtube-clone/
--  - Hi, I’m @Karttavya aka Kartavya Agrawal
+-  Link- https://karttavya.github.io/Youtube-clone/
+-  Hi, I’m @Karttavya aka Kartavya Agrawal
 -  Interested in designing small robots that works however I code them.
 -  Currently learning Frontend development and UX/UI design with python.
 -  You can reach me at karttavyaagrawal@gmail.com
