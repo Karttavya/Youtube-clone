@@ -1,6 +1,7 @@
 *{
     margin: 0;
 }
+
 .header{
     top: 0;
     position:fixed;
@@ -93,7 +94,7 @@
 .voice-search-icon{
     margin-top: 4px;
 }
-
+/*right*/
 
 .right{
     width: 200px;
@@ -204,3 +205,4 @@ p{
     right: 10px;
 
 }
+
