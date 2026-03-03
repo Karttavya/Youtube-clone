@@ -1,7 +1,7 @@
 a=int(input("Enter the number of items you want to purchase: "))
 items=[]
 item_price=[]
-#inputs
+#inputs of the code
 for i in range (a):
     item=str(input(f"\nEnter item{i+1}'s name : "))
     price=int(input(f"Enter {item}'s price per unit: "))
@@ -25,3 +25,4 @@ else:
     print("Discount applied: 15%")
    
     print(f"Discounted price: {thousand}")
+
