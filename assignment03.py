@@ -3,7 +3,7 @@ print("Aur" ,name,", kya haal chal!")
 
 num1=int(input("\nenter number one:"))
 num2=int(input("enter number two:"))
-
+#main inout
 operation=int(input('''
 Whaat do you want me to do
 1. Addition
@@ -22,3 +22,4 @@ elif operation==4:
     print("Division:",num1/num2)
 else:
     print("\nAUUKAAAT ME")
+
